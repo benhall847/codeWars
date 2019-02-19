@@ -10,5 +10,5 @@ def square_digits(num):
     for each_number in str(num):
         # add the square root of that integer, as a string, to result.
         result += str(int(each_number) ** 2)
-    # convert our result from a string to integers
+    # convert our result from a string to integers and return the result
     return int(result)
