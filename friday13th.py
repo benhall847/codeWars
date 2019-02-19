@@ -16,16 +16,11 @@
 def unlucky_days(year):
     # first we import the datetime module
     import datetime
-    # begin a counter, to count how many Friday 13ths their are.
-    count = 0
-    # for each month (1-12) = i
-    for i in range(1,13):
+        # for each month (1-12) = i
         # in the given year, if the 13th of the month 'i' is a Friday
-        if datetime.date(year, i, 13).strftime("%A") == "Friday":
-            # add 1 to the counter
-            count += 1
-        # loop through each month ('i')
+    return sum(datetime.date(year, i, 13).strftime("%A") == "Friday" for i in range(1, 13))
+    # the sum of the 13th day of each month that is equal to "Friday"
+#                                                                     #loop through each month ('i')
 
-    return count
 
 print(unlucky_days(1928))
