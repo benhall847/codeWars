@@ -4,9 +4,9 @@
 [![Profile badge](https://www.codewars.com/users/Banana-Pirate/badges/large)
 
 ## About CodeWars
-CodeWars is a a website that provides you with challanges from a variety of programming languanges and difficulty.
-Users are ranked based on their record of challenges completed.
+CodeWars is a a website that provides you with challanges from a variety of programming languanges and difficulty. <br />
 
+Users are ranked based on their record of challenges completed.
 ![CodeWars levels](https://i.imgur.com/Vm77XMv.png)
 
 ## My Solutions
