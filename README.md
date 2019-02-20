@@ -12,3 +12,9 @@ Users are ranked based on their record of challenges completed.
 ### Python
 
 - 6 kyu - [Replace With Alphabet Position](py/alphabetPosition.py)
+- 6 kyu - [Format a string of names like 'Bart, Lisa & Maggie'](py/formatStringOfNames.py)
+- 7 kyu - [Unlucky Days](py/friday13th.py)
+- 7 kyu - [Friend or Foe?](py/nameFilter.py)
+- 7 kyu - [Power of two](py/powerOfTwo.py)
+- 8 kyu - [Find the smallest integer in the array](py/findSmallestInteger.py)
+- 8 kyu - [Remove First and Last Character](py/removeFirstAndLast.py)
