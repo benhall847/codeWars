@@ -6,7 +6,7 @@
 ## About CodeWars
 CodeWars is a a website that provides you with challanges from a variety of programming languanges and difficulty. <br />
 
-Users are ranked based on their record of challenges completed.
+Users are ranked based on their record of challenges completed. <br />
 ![CodeWars levels](https://i.imgur.com/Vm77XMv.png)
 
 ## My Solutions
