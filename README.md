@@ -1,7 +1,7 @@
 # CodeWars
 >This is my GitHub repository of my kata solutions from [codewars.com](https://www.codewars.com/).
 
-[![Profile badge](https://www.codewars.com/users/Banana-Pirate/badges/large)
+![Profile badge](https://www.codewars.com/users/Banana-Pirate/badges/large)
 
 ## About CodeWars
 CodeWars is a a website that provides you with challanges from a variety of programming languanges and difficulty. <br />
@@ -18,6 +18,7 @@ Users are ranked based on their record of challenges completed.
 - 7 kyu - [Remove the minimum](py/removeTheMinimum.py)
 - 7 kyu - [Square Every Digit](py/squareEveryDigit.py)
 - 7 kyu - [Unlucky Days](py/friday13th.py)
+- 8 kyu - [Closest Eleveator](py/closestElevator.py)
 - 8 kyu - [Find the smallest integer in the array](py/findSmallestInteger.py)
 - 8 kyu - [Remove First and Last Character](py/removeFirstAndLast.py)
 - 8 kyu - [Seats in The Theater](py/seatsInTheater.py)
