@@ -20,3 +20,4 @@ Users are ranked based on their record of challenges completed.
 - 7 kyu - [Unlucky Days](py/friday13th.py)
 - 8 kyu - [Find the smallest integer in the array](py/findSmallestInteger.py)
 - 8 kyu - [Remove First and Last Character](py/removeFirstAndLast.py)
+- 8 kyu - [Seats in The Theater](py/seatsInTheater.py)
