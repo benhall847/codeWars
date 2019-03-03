@@ -10,6 +10,7 @@ Users are ranked based on their record of challenges completed.
 ## My Solutions
 
 ### Python
+- 6 kyu - [Encrypt this!](py/encryptThis.py)
 - 6 kyu - [Format a string of names like 'Bart, Lisa & Maggie'](py/formatStringOfNames.py)
 - 6 kyu - [Replace With Alphabet Position](py/alphabetPosition.py)
 - 6 kyu - [salesman's Travel](py/salesmanTravel.py)
