@@ -29,4 +29,4 @@ def solve(files):
             biggest.insert(0,ea_key)
     biggest.sort(key=len, reverse=False)
     biggest.sort()
-    resturn biggest
+    return biggest
