@@ -12,6 +12,7 @@ Users are ranked based on their record of challenges completed.
 
 ### JavaScript
 - 7 kyu - [Highest and Lowest](js/highestAndLowest.js)
+- 7 kyu - [Shortest Word](js/shortestWord.js)
 - 8 kyu - [Even or Odd](js/evenOrOdd.js)
 - 8 kyu - [Opposite Number](js/oppositeNumber.js)
 
