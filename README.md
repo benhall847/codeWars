@@ -9,6 +9,13 @@ Users are ranked based on their record of challenges completed.
 
 ## My Solutions
 
+
+### JavaScript
+- 7 kyu - [Highest and Lowest](js/highestAndLowest.js)
+- 8 kyu - [Even or Odd](js/evenOrOdd.js)
+- 8 kyu - [Opposite Number](js/oppositeNumber.js)
+
+
 ### Python
 - 6 kyu - [Encrypt this!](py/encryptThis.py)
 - 6 kyu - [Format a string of names like 'Bart, Lisa & Maggie'](py/formatStringOfNames.py)
