@@ -15,6 +15,7 @@ Users are ranked based on their record of challenges completed.
 - 7 kyu - [Ranking position](js/rankingPosition.js)
 - 7 kyu - [Shortest Word](js/shortestWord.js)
 - 7 kyu - [String ends with?](js/stringEndsWith.js)
+- 7 kyu - [The Coupon Code](js/theCouponCode.js)
 - 8 kyu - [Even or Odd](js/evenOrOdd.js)
 - 8 kyu - [Find numbers which are divisible by given number](js/findDivisibleNumbers.js)
 - 8 kyu - [Opposite Number](js/oppositeNumber.js)
