@@ -15,6 +15,7 @@ Users are ranked based on their record of challenges completed.
 - 7 kyu - [Changing letters](js/changingLetters.js)
 - 7 kyu - [Growth of a Population](js/growthOfPopulation.js)
 - 7 kyu - [Highest and Lowest](js/highestAndLowest.js)
+- 7 kyu - [Nunber of People in the Bus](js/peopleInTheBus.js)
 - 7 kyu - [Ranking position](js/rankingPosition.js)
 - 7 kyu - [Shortest Word](js/shortestWord.js)
 - 7 kyu - [String ends with?](js/stringEndsWith.js)
