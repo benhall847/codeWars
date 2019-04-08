@@ -12,6 +12,8 @@ Users are ranked based on their record of challenges completed.
 
 ### JavaScript
 - 6 kyu - [Framed Reflection](js/framedReflection.js)
+- 7 kyu - [Changing letters](js/changingLetters.js)
+- 7 kyu - [Growth of a Population](js/growthOfPopulation.js)
 - 7 kyu - [Highest and Lowest](js/highestAndLowest.js)
 - 7 kyu - [Ranking position](js/rankingPosition.js)
 - 7 kyu - [Shortest Word](js/shortestWord.js)
