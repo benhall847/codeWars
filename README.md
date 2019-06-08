@@ -27,7 +27,6 @@ Users are ranked based on their record of challenges completed.
 
 
 ### Python
-- 6 kyu - [Easy Balance Checking](py/easyBalanceChecking.py)
 - 6 kyu - [Encrypt this!](py/encryptThis.py)
 - 6 kyu - [Format a string of names like 'Bart, Lisa & Maggie'](py/formatStringOfNames.py)
 - 6 kyu - [Replace With Alphabet Position](py/alphabetPosition.py)
