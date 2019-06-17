@@ -20,7 +20,7 @@ function smallest(n) {
             }
         }
         smallestIndex = myString.indexOf(smallestNum)
-        movedTo = 1
+        movedTo = 1 p
     }
     
     let string1 = myString.substring(movedTo, smallestIndex)
