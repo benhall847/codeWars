@@ -11,7 +11,7 @@ Users are ranked based on their record of challenges completed.
 
 
 ### JavaScript
-- 5 kyu - [Moving Zeros To The End](js/MovingZerosToEnd.js)
+- 5 kyu - [Moving Zeros To The End](js/movingZerosToEnd.js)
 - 5 kyu - [Where my anagrams at?](js/whereMyAnagramsAt.js)
 - 6 kyu - [Are they the "same"?](js/areTheyTheSame.js)
 - 6 kyu - [Framed Reflection](js/framedReflection.js)
