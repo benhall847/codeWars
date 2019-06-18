@@ -14,6 +14,7 @@ Users are ranked based on their record of challenges completed.
 - 6 kyu - [Are they the "same"?](js/areTheyTheSame.js)
 - 6 kyu - [Framed Reflection](js/framedReflection.js)
 - 6 kyu - [Sum of Parts](js/sumOfParts.js)
+- 6 kyu - [Valid Phone Number](js/validPhoneNumber.js)
 - 7 kyu - [Changing letters](js/changingLetters.js)
 - 7 kyu - [Complementary DNA](js/complementaryDNA.js)
 - 7 kyu - [Growth of a Population](js/growthOfPopulation.js)
